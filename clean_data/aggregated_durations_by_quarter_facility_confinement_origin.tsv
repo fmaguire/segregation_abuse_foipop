@@ -1,0 +1,627 @@
+Quarter	Correctional Facility	Confinement Reason	Ethnic Origin	Segregations (Distinct Events)	Mean Segregation Duration (Days)	Minimum Segregation Duration (Days)	25th Percentile Segregation Duration (Days)	Median Segregation Duration (Days)	75th Percentile Segregation Duration (Days)	Maximum Segregation Duration (Days)	Total Segregration Duration (Days)
+2020-Q4	Cape Breton Correctional Facility	Alleged or Breached Rule	CAU	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2020-Q4	Cape Breton Correctional Facility	Alleged or Breached Rule	IND	1.0	5.0	5.0	5.0	5.0	5.0	5.0	5
+2020-Q4	Cape Breton Correctional Facility	COVID-19	CAU	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2
+2020-Q4	Central NS Correctional Facility	Alleged or Breached Rule	CAU	2.0	27.5	5.0	16.25	27.5	38.75	50.0	55
+2020-Q4	Central NS Correctional Facility	COVID-19	CAU	2.0	1.0	1.0	1.0	1.0	1.0	1.0	2
+2020-Q4	Northeast NS Correctional Facility	Alleged or Breached Rule	CAU	1.0	4.0	4.0	4.0	4.0	4.0	4.0	4
+2020-Q4	Northeast NS Correctional Facility	COVID-19	CAU	1.0	5.0	5.0	5.0	5.0	5.0	5.0	5
+2020-Q4	Northeast NS Correctional Facility	COVID-19	IND	1.0	3.0	3.0	3.0	3.0	3.0	3.0	3
+2020-Q4	Northeast NS Correctional Facility	Security of Correctional Facility	CAU	1.0	4.0	4.0	4.0	4.0	4.0	4.0	4
+2021-Q1	Cape Breton Correctional Facility	Alleged or Breached Rule	CAU	24.0	2.25	1.0	1.0	1.5	3.0	7.0	54
+2021-Q1	Cape Breton Correctional Facility	Alleged or Breached Rule	IND	6.0	1.8333333333333333	0.0	1.0	1.5	2.75	4.0	11
+2021-Q1	Cape Breton Correctional Facility	Alleged or Breached Rule	OTH	2.0	2.5	1.0	1.75	2.5	3.25	4.0	5
+2021-Q1	Cape Breton Correctional Facility	COVID-19	BLA	2.0	1.5	1.0	1.25	1.5	1.75	2.0	3
+2021-Q1	Cape Breton Correctional Facility	COVID-19	CAU	85.0	1.411764705882353	0.0	1.0	1.0	2.0	5.0	120
+2021-Q1	Cape Breton Correctional Facility	COVID-19	IND	27.0	1.2222222222222223	0.0	1.0	1.0	2.0	2.0	33
+2021-Q1	Cape Breton Correctional Facility	COVID-19	OTH	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2
+2021-Q1	Cape Breton Correctional Facility	COVID-19	Redacted	2.0	1.0	1.0	1.0	1.0	1.0	1.0	2
+2021-Q1	Cape Breton Correctional Facility	COVID-19	UNK	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2021-Q1	Cape Breton Correctional Facility	High Risk Safety Protocol	CAU	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2
+2021-Q1	Cape Breton Correctional Facility	Housed with Privileges	CAU	2.0	1.5	1.0	1.25	1.5	1.75	2.0	3
+2021-Q1	Cape Breton Correctional Facility	Medical	BLA	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2
+2021-Q1	Cape Breton Correctional Facility	Medical	CAU	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2021-Q1	Cape Breton Correctional Facility	Medical	IND	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2
+2021-Q1	Cape Breton Correctional Facility	Own Request	CAU	2.0	2.5	1.0	1.75	2.5	3.25	4.0	5
+2021-Q1	Cape Breton Correctional Facility	Own Request	IND	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2021-Q1	Cape Breton Correctional Facility	Protection	CAU	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2021-Q1	Cape Breton Correctional Facility	Security of Correctional Facility	CAU	9.0	2.4444444444444446	0.0	2.0	2.0	3.0	7.0	22
+2021-Q1	Cape Breton Correctional Facility	Security of Correctional Facility	IND	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2
+2021-Q1	Central NS Correctional Facility	Alleged or Breached Rule	ANS	2.0	1.0	1.0	1.0	1.0	1.0	1.0	2
+2021-Q1	Central NS Correctional Facility	Alleged or Breached Rule	ARAB	3.0	16.666666666666668	5.0	9.5	14.0	22.5	31.0	50
+2021-Q1	Central NS Correctional Facility	Alleged or Breached Rule	BLA	28.0	2.892857142857143	0.0	1.0	2.5	3.25	15.0	81
+2021-Q1	Central NS Correctional Facility	Alleged or Breached Rule	CAU	83.0	3.6987951807228914	0.0	2.0	3.0	4.0	31.0	307
+2021-Q1	Central NS Correctional Facility	Alleged or Breached Rule	IND	24.0	6.541666666666667	0.0	2.0	4.0	4.25	49.0	157
+2021-Q1	Central NS Correctional Facility	Alleged or Breached Rule	OTH	15.0	2.6666666666666665	1.0	2.0	3.0	3.0	5.0	40
+2021-Q1	Central NS Correctional Facility	Alleged or Breached Rule	UNK	6.0	2.8333333333333335	0.0	1.25	2.5	3.75	7.0	17
+2021-Q1	Central NS Correctional Facility	COVID-19	ANS	18.0	1.3888888888888888	0.0	1.0	1.0	2.0	4.0	25
+2021-Q1	Central NS Correctional Facility	COVID-19	ARAB	3.0	2.0	1.0	1.0	1.0	2.5	4.0	6
+2021-Q1	Central NS Correctional Facility	COVID-19	ASIA	4.0	4.5	0.0	0.75	1.5	5.25	15.0	18
+2021-Q1	Central NS Correctional Facility	COVID-19	BLA	59.0	2.3559322033898304	0.0	1.0	2.0	2.0	32.0	139
+2021-Q1	Central NS Correctional Facility	COVID-19	CAU	340.0	2.3588235294117648	0.0	1.0	2.0	3.0	20.0	802
+2021-Q1	Central NS Correctional Facility	COVID-19	IND	42.0	2.1666666666666665	0.0	1.0	2.0	2.0	18.0	91
+2021-Q1	Central NS Correctional Facility	COVID-19	OTH	9.0	9.0	1.0	1.0	3.0	7.0	53.0	81
+2021-Q1	Central NS Correctional Facility	COVID-19	Redacted	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0
+2021-Q1	Central NS Correctional Facility	COVID-19	UNK	14.0	1.7142857142857142	0.0	0.0	1.5	2.0	6.0	24
+2021-Q1	Central NS Correctional Facility	High Risk Safety Protocol	CAU	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2
+2021-Q1	Central NS Correctional Facility	Housed with Privileges	BLA	2.0	0.5	0.0	0.25	0.5	0.75	1.0	1
+2021-Q1	Central NS Correctional Facility	Housed with Privileges	CAU	6.0	2.5	1.0	2.25	3.0	3.0	3.0	15
+2021-Q1	Central NS Correctional Facility	Housed with Privileges	IND	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2021-Q1	Central NS Correctional Facility	Housed with Privileges	OTH	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2021-Q1	Central NS Correctional Facility	Medical	ANS	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0
+2021-Q1	Central NS Correctional Facility	Medical	ARAB	4.0	2.5	1.0	1.75	2.0	2.75	5.0	10
+2021-Q1	Central NS Correctional Facility	Medical	BLA	5.0	13.6	2.0	2.0	2.0	7.0	55.0	68
+2021-Q1	Central NS Correctional Facility	Medical	CAU	29.0	6.862068965517241	0.0	2.0	4.0	8.0	30.0	199
+2021-Q1	Central NS Correctional Facility	Medical	IND	6.0	1.6666666666666667	0.0	0.25	1.5	2.75	4.0	10
+2021-Q1	Central NS Correctional Facility	Own Request	BLA	6.0	73.33333333333333	3.0	12.0	25.0	63.5	303.0	440
+2021-Q1	Central NS Correctional Facility	Own Request	CAU	33.0	5.909090909090909	0.0	2.0	3.0	5.0	50.0	195
+2021-Q1	Central NS Correctional Facility	Own Request	IND	3.0	3.3333333333333335	1.0	2.5	4.0	4.5	5.0	10
+2021-Q1	Central NS Correctional Facility	Protection	ARAB	1.0	4.0	4.0	4.0	4.0	4.0	4.0	4
+2021-Q1	Central NS Correctional Facility	Protection	CAU	6.0	3.0	1.0	1.0	2.0	4.5	7.0	18
+2021-Q1	Central NS Correctional Facility	Security of Correctional Facility	BLA	7.0	6.428571428571429	1.0	1.5	3.0	10.5	17.0	45
+2021-Q1	Central NS Correctional Facility	Security of Correctional Facility	CAU	3.0	1.6666666666666667	1.0	1.5	2.0	2.0	2.0	5
+2021-Q1	Central NS Correctional Facility	Security of Correctional Facility	IND	1.0	5.0	5.0	5.0	5.0	5.0	5.0	5
+2021-Q1	Northeast NS Correctional Facility	Alleged or Breached Rule	BLA	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2021-Q1	Northeast NS Correctional Facility	Alleged or Breached Rule	CAU	26.0	2.730769230769231	0.0	2.0	3.0	4.0	5.0	71
+2021-Q1	Northeast NS Correctional Facility	Alleged or Breached Rule	IND	4.0	2.25	1.0	1.75	2.5	3.0	3.0	9
+2021-Q1	Northeast NS Correctional Facility	Alleged or Breached Rule	OTH	3.0	4.333333333333333	4.0	4.0	4.0	4.5	5.0	13
+2021-Q1	Northeast NS Correctional Facility	Alleged or Breached Rule	UNK	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2021-Q1	Northeast NS Correctional Facility	COVID-19	ANS	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2
+2021-Q1	Northeast NS Correctional Facility	COVID-19	BLA	4.0	3.0	1.0	1.75	2.5	3.75	6.0	12
+2021-Q1	Northeast NS Correctional Facility	COVID-19	CAU	68.0	2.176470588235294	0.0	1.0	2.0	3.0	6.0	148
+2021-Q1	Northeast NS Correctional Facility	COVID-19	IND	12.0	6.666666666666667	2.0	2.0	4.0	6.25	28.0	80
+2021-Q1	Northeast NS Correctional Facility	COVID-19	OTH	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2
+2021-Q1	Northeast NS Correctional Facility	COVID-19	UNK	5.0	2.2	1.0	2.0	2.0	3.0	3.0	11
+2021-Q1	Northeast NS Correctional Facility	Housed with Privileges	CAU	9.0	5.222222222222222	1.0	1.0	5.0	7.0	13.0	47
+2021-Q1	Northeast NS Correctional Facility	Housed with Privileges	IND	9.0	2.2222222222222223	0.0	1.0	2.0	3.0	4.0	20
+2021-Q1	Northeast NS Correctional Facility	Medical	BLA	1.0	15.0	15.0	15.0	15.0	15.0	15.0	15
+2021-Q1	Northeast NS Correctional Facility	Medical	CAU	10.0	5.8	0.0	3.0	4.0	4.75	28.0	58
+2021-Q1	Northeast NS Correctional Facility	Medical	IND	3.0	3.3333333333333335	2.0	2.5	3.0	4.0	5.0	10
+2021-Q1	Northeast NS Correctional Facility	Own Request	CAU	2.0	1.0	1.0	1.0	1.0	1.0	1.0	2
+2021-Q1	Northeast NS Correctional Facility	Protection	CAU	1.0	5.0	5.0	5.0	5.0	5.0	5.0	5
+2021-Q1	Northeast NS Correctional Facility	Safety of Others	IND	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2021-Q1	Northeast NS Correctional Facility	Security of Correctional Facility	BLA	3.0	6.666666666666667	1.0	4.5	8.0	9.5	11.0	20
+2021-Q1	Northeast NS Correctional Facility	Security of Correctional Facility	CAU	13.0	5.923076923076923	0.0	2.0	3.0	8.0	31.0	77
+2021-Q1	Northeast NS Correctional Facility	Security of Correctional Facility	IND	14.0	2.642857142857143	1.0	2.0	2.0	2.75	7.0	37
+2021-Q1	Southwest NS Correctional Facility	COVID-19	CAU	9.0	1.1111111111111112	0.0	1.0	1.0	1.0	3.0	10
+2021-Q1	Southwest NS Correctional Facility	COVID-19	IND	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0
+2021-Q1	Southwest NS Correctional Facility	COVID-19	UNK	2.0	1.0	1.0	1.0	1.0	1.0	1.0	2
+2021-Q2	Cape Breton Correctional Facility	Alleged or Breached Rule	CAU	18.0	2.111111111111111	1.0	1.0	2.0	3.0	5.0	38
+2021-Q2	Cape Breton Correctional Facility	Alleged or Breached Rule	IND	1.0	5.0	5.0	5.0	5.0	5.0	5.0	5
+2021-Q2	Cape Breton Correctional Facility	COVID-19	ANS	2.0	1.0	1.0	1.0	1.0	1.0	1.0	2
+2021-Q2	Cape Breton Correctional Facility	COVID-19	BLA	8.0	1.375	1.0	1.0	1.0	2.0	2.0	11
+2021-Q2	Cape Breton Correctional Facility	COVID-19	CAU	67.0	1.3582089552238805	0.0	1.0	1.0	2.0	3.0	91
+2021-Q2	Cape Breton Correctional Facility	COVID-19	IND	24.0	1.3333333333333333	0.0	1.0	1.0	2.0	3.0	32
+2021-Q2	Cape Breton Correctional Facility	COVID-19	Redacted	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2
+2021-Q2	Cape Breton Correctional Facility	COVID-19	UNK	2.0	1.0	1.0	1.0	1.0	1.0	1.0	2
+2021-Q2	Cape Breton Correctional Facility	High Risk Safety Protocol	CAU	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2021-Q2	Cape Breton Correctional Facility	Housed with Privileges	CAU	2.0	1.0	0.0	0.5	1.0	1.5	2.0	2
+2021-Q2	Cape Breton Correctional Facility	Medical	BLA	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2
+2021-Q2	Cape Breton Correctional Facility	Medical	CAU	4.0	2.25	1.0	1.75	2.5	3.0	3.0	9
+2021-Q2	Cape Breton Correctional Facility	Own Request	CAU	16.0	3.0	1.0	2.0	2.5	3.0	10.0	48
+2021-Q2	Cape Breton Correctional Facility	Protection	CAU	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2021-Q2	Cape Breton Correctional Facility	Safety of Others	CAU	3.0	1.6666666666666667	1.0	1.0	1.0	2.0	3.0	5
+2021-Q2	Cape Breton Correctional Facility	Security of Correctional Facility	CAU	2.0	1.0	0.0	0.5	1.0	1.5	2.0	2
+2021-Q2	Cape Breton Correctional Facility	Security of Correctional Facility	IND	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2
+2021-Q2	Central NS Correctional Facility	Alleged or Breached Rule	ANS	6.0	2.0	0.0	1.0	1.5	2.0	6.0	12
+2021-Q2	Central NS Correctional Facility	Alleged or Breached Rule	ARAB	1.0	45.0	45.0	45.0	45.0	45.0	45.0	45
+2021-Q2	Central NS Correctional Facility	Alleged or Breached Rule	BLA	36.0	2.111111111111111	0.0	0.0	1.0	3.0	14.0	76
+2021-Q2	Central NS Correctional Facility	Alleged or Breached Rule	CAU	113.0	3.6371681415929205	0.0	1.0	2.0	4.0	36.0	411
+2021-Q2	Central NS Correctional Facility	Alleged or Breached Rule	IND	23.0	2.608695652173913	0.0	1.0	2.0	4.0	7.0	60
+2021-Q2	Central NS Correctional Facility	Alleged or Breached Rule	OTH	3.0	0.3333333333333333	0.0	0.0	0.0	0.5	1.0	1
+2021-Q2	Central NS Correctional Facility	COVID-19	ANS	14.0	1.4285714285714286	0.0	1.0	1.0	2.0	5.0	20
+2021-Q2	Central NS Correctional Facility	COVID-19	ARAB	3.0	0.3333333333333333	0.0	0.0	0.0	0.5	1.0	1
+2021-Q2	Central NS Correctional Facility	COVID-19	ASIA	2.0	1.0	0.0	0.5	1.0	1.5	2.0	2
+2021-Q2	Central NS Correctional Facility	COVID-19	BLA	61.0	2.540983606557377	0.0	1.0	1.0	2.0	54.0	155
+2021-Q2	Central NS Correctional Facility	COVID-19	CAU	334.0	2.0	0.0	1.0	1.0	2.0	53.0	668
+2021-Q2	Central NS Correctional Facility	COVID-19	IND	42.0	2.9761904761904763	0.0	0.25	1.0	2.0	37.0	125
+2021-Q2	Central NS Correctional Facility	COVID-19	OTH	16.0	2.9375	0.0	1.0	2.0	3.0	18.0	47
+2021-Q2	Central NS Correctional Facility	COVID-19	Redacted	2.0	1.5	0.0	0.75	1.5	2.25	3.0	3
+2021-Q2	Central NS Correctional Facility	COVID-19	UNK	19.0	1.894736842105263	0.0	1.0	1.0	2.0	8.0	36
+2021-Q2	Central NS Correctional Facility	High Risk Safety Protocol	BLA	2.0	3.0	3.0	3.0	3.0	3.0	3.0	6
+2021-Q2	Central NS Correctional Facility	High Risk Safety Protocol	CAU	3.0	1.3333333333333333	1.0	1.0	1.0	1.5	2.0	4
+2021-Q2	Central NS Correctional Facility	Housed with Privileges	BLA	1.0	35.0	35.0	35.0	35.0	35.0	35.0	35
+2021-Q2	Central NS Correctional Facility	Housed with Privileges	CAU	5.0	2.8	2.0	3.0	3.0	3.0	3.0	14
+2021-Q2	Central NS Correctional Facility	Housed with Privileges	IND	1.0	5.0	5.0	5.0	5.0	5.0	5.0	5
+2021-Q2	Central NS Correctional Facility	Medical	BLA	1.0	16.0	16.0	16.0	16.0	16.0	16.0	16
+2021-Q2	Central NS Correctional Facility	Medical	CAU	38.0	6.7894736842105265	0.0	1.0	2.5	7.0	39.0	258
+2021-Q2	Central NS Correctional Facility	Medical	IND	3.0	6.333333333333333	1.0	1.0	1.0	9.0	17.0	19
+2021-Q2	Central NS Correctional Facility	Medical	OTH	3.0	5.333333333333333	2.0	2.0	2.0	7.0	12.0	16
+2021-Q2	Central NS Correctional Facility	Own Request	ARAB	1.0	77.0	77.0	77.0	77.0	77.0	77.0	77
+2021-Q2	Central NS Correctional Facility	Own Request	BLA	2.0	3.0	1.0	2.0	3.0	4.0	5.0	6
+2021-Q2	Central NS Correctional Facility	Own Request	CAU	39.0	3.923076923076923	0.0	1.0	3.0	5.0	16.0	153
+2021-Q2	Central NS Correctional Facility	Own Request	IND	5.0	6.4	0.0	3.0	5.0	8.0	16.0	32
+2021-Q2	Central NS Correctional Facility	Protection	BLA	3.0	3.6666666666666665	2.0	3.0	4.0	4.5	5.0	11
+2021-Q2	Central NS Correctional Facility	Protection	CAU	18.0	6.166666666666667	0.0	1.0	2.0	7.25	35.0	111
+2021-Q2	Central NS Correctional Facility	Protection	IND	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2021-Q2	Central NS Correctional Facility	Security of Correctional Facility	ANS	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0
+2021-Q2	Central NS Correctional Facility	Security of Correctional Facility	BLA	12.0	8.25	0.0	1.0	1.5	3.0	81.0	99
+2021-Q2	Central NS Correctional Facility	Security of Correctional Facility	CAU	10.0	1.6	0.0	1.0	1.0	2.5	4.0	16
+2021-Q2	Central NS Correctional Facility	Security of Correctional Facility	IND	7.0	4.0	1.0	1.5	3.0	3.5	14.0	28
+2021-Q2	Northeast NS Correctional Facility	Alleged or Breached Rule	ANS	2.0	1.5	1.0	1.25	1.5	1.75	2.0	3
+2021-Q2	Northeast NS Correctional Facility	Alleged or Breached Rule	BLA	7.0	2.7142857142857144	2.0	2.0	3.0	3.0	4.0	19
+2021-Q2	Northeast NS Correctional Facility	Alleged or Breached Rule	CAU	31.0	2.193548387096774	0.0	1.0	2.0	3.0	7.0	68
+2021-Q2	Northeast NS Correctional Facility	Alleged or Breached Rule	IND	9.0	2.4444444444444446	2.0	2.0	2.0	3.0	4.0	22
+2021-Q2	Northeast NS Correctional Facility	Alleged or Breached Rule	UNK	2.0	2.5	2.0	2.25	2.5	2.75	3.0	5
+2021-Q2	Northeast NS Correctional Facility	COVID-19	ANS	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2
+2021-Q2	Northeast NS Correctional Facility	COVID-19	BLA	2.0	2.5	1.0	1.75	2.5	3.25	4.0	5
+2021-Q2	Northeast NS Correctional Facility	COVID-19	CAU	34.0	2.323529411764706	0.0	1.25	2.0	2.0	9.0	79
+2021-Q2	Northeast NS Correctional Facility	COVID-19	IND	7.0	3.5714285714285716	0.0	1.0	2.0	3.0	15.0	25
+2021-Q2	Northeast NS Correctional Facility	COVID-19	UNK	6.0	2.5	1.0	1.25	2.5	3.0	5.0	15
+2021-Q2	Northeast NS Correctional Facility	Housed with Privileges	CAU	19.0	5.368421052631579	1.0	2.0	3.0	6.5	27.0	102
+2021-Q2	Northeast NS Correctional Facility	Housed with Privileges	IND	10.0	3.7	0.0	2.0	3.0	3.75	13.0	37
+2021-Q2	Northeast NS Correctional Facility	Medical	BLA	2.0	2.0	1.0	1.5	2.0	2.5	3.0	4
+2021-Q2	Northeast NS Correctional Facility	Medical	CAU	6.0	5.333333333333333	1.0	2.25	3.0	4.5	18.0	32
+2021-Q2	Northeast NS Correctional Facility	Security of Correctional Facility	ANS	1.0	3.0	3.0	3.0	3.0	3.0	3.0	3
+2021-Q2	Northeast NS Correctional Facility	Security of Correctional Facility	BLA	2.0	7.5	6.0	6.75	7.5	8.25	9.0	15
+2021-Q2	Northeast NS Correctional Facility	Security of Correctional Facility	CAU	37.0	3.4594594594594597	0.0	1.0	2.0	3.0	28.0	128
+2021-Q2	Northeast NS Correctional Facility	Security of Correctional Facility	IND	20.0	3.4	1.0	2.0	2.5	3.0	15.0	68
+2021-Q2	Southwest NS Correctional Facility	COVID-19	CAU	13.0	1.0	0.0	0.0	1.0	1.0	3.0	13
+2021-Q2	Southwest NS Correctional Facility	COVID-19	IND	2.0	1.0	0.0	0.5	1.0	1.5	2.0	2
+2021-Q3	Cape Breton Correctional Facility	Alleged or Breached Rule	CAU	14.0	1.2857142857142858	0.0	1.0	1.0	1.0	4.0	18
+2021-Q3	Cape Breton Correctional Facility	Alleged or Breached Rule	IND	10.0	1.7	1.0	1.0	1.0	2.0	5.0	17
+2021-Q3	Cape Breton Correctional Facility	Alleged or Breached Rule	OTH	2.0	3.0	1.0	2.0	3.0	4.0	5.0	6
+2021-Q3	Cape Breton Correctional Facility	COVID-19	BLA	3.0	1.3333333333333333	1.0	1.0	1.0	1.5	2.0	4
+2021-Q3	Cape Breton Correctional Facility	COVID-19	CAU	103.0	1.2621359223300972	0.0	1.0	1.0	1.0	3.0	130
+2021-Q3	Cape Breton Correctional Facility	COVID-19	IND	38.0	1.236842105263158	0.0	1.0	1.0	1.75	2.0	47
+2021-Q3	Cape Breton Correctional Facility	COVID-19	OTH	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2021-Q3	Cape Breton Correctional Facility	COVID-19	UNK	2.0	1.0	1.0	1.0	1.0	1.0	1.0	2
+2021-Q3	Cape Breton Correctional Facility	Housed with Privileges	CAU	6.0	0.5	0.0	0.0	0.5	1.0	1.0	3
+2021-Q3	Cape Breton Correctional Facility	Medical	BLA	3.0	2.0	1.0	1.0	1.0	2.5	4.0	6
+2021-Q3	Cape Breton Correctional Facility	Medical	CAU	8.0	2.125	1.0	1.0	2.0	2.0	6.0	17
+2021-Q3	Cape Breton Correctional Facility	Medical	IND	3.0	1.0	1.0	1.0	1.0	1.0	1.0	3
+2021-Q3	Cape Breton Correctional Facility	Own Request	BLA	4.0	1.25	0.0	0.75	1.5	2.0	2.0	5
+2021-Q3	Cape Breton Correctional Facility	Own Request	CAU	9.0	2.0	1.0	1.0	2.0	3.0	4.0	18
+2021-Q3	Cape Breton Correctional Facility	Safety of Others	CAU	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2021-Q3	Cape Breton Correctional Facility	Security of Correctional Facility	CAU	2.0	1.0	1.0	1.0	1.0	1.0	1.0	2
+2021-Q3	Cape Breton Correctional Facility	Security of Correctional Facility	IND	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2021-Q3	Central NS Correctional Facility	Alleged or Breached Rule	ANS	4.0	4.25	2.0	2.75	4.0	5.5	7.0	17
+2021-Q3	Central NS Correctional Facility	Alleged or Breached Rule	BLA	22.0	2.727272727272727	1.0	1.0	2.0	3.0	12.0	60
+2021-Q3	Central NS Correctional Facility	Alleged or Breached Rule	CAU	65.0	3.0153846153846153	0.0	1.0	2.0	5.0	14.0	196
+2021-Q3	Central NS Correctional Facility	Alleged or Breached Rule	IND	5.0	18.4	2.0	2.0	3.0	7.0	78.0	92
+2021-Q3	Central NS Correctional Facility	Alleged or Breached Rule	OTH	2.0	2.5	2.0	2.25	2.5	2.75	3.0	5
+2021-Q3	Central NS Correctional Facility	COVID-19	ANS	14.0	2.142857142857143	0.0	1.0	1.0	3.5	7.0	30
+2021-Q3	Central NS Correctional Facility	COVID-19	ARAB	7.0	3.2857142857142856	0.0	2.0	2.0	5.0	7.0	23
+2021-Q3	Central NS Correctional Facility	COVID-19	ASIA	4.0	3.25	1.0	1.0	3.0	5.25	6.0	13
+2021-Q3	Central NS Correctional Facility	COVID-19	BLA	60.0	2.3666666666666667	0.0	1.0	2.0	3.0	14.0	142
+2021-Q3	Central NS Correctional Facility	COVID-19	CAU	365.0	1.9205479452054794	0.0	1.0	1.0	2.0	19.0	701
+2021-Q3	Central NS Correctional Facility	COVID-19	IND	48.0	2.1041666666666665	0.0	1.0	1.0	2.25	15.0	101
+2021-Q3	Central NS Correctional Facility	COVID-19	OTH	10.0	3.5	0.0	1.0	2.5	6.0	9.0	35
+2021-Q3	Central NS Correctional Facility	COVID-19	UNK	15.0	1.2	0.0	0.0	1.0	2.0	3.0	18
+2021-Q3	Central NS Correctional Facility	High Risk Safety Protocol	BLA	4.0	2.25	1.0	1.0	2.0	3.25	4.0	9
+2021-Q3	Central NS Correctional Facility	High Risk Safety Protocol	CAU	6.0	2.6666666666666665	0.0	1.25	2.5	4.5	5.0	16
+2021-Q3	Central NS Correctional Facility	High Risk Safety Protocol	IND	2.0	5.0	3.0	4.0	5.0	6.0	7.0	10
+2021-Q3	Central NS Correctional Facility	Housed with Privileges	CAU	2.0	2.0	1.0	1.5	2.0	2.5	3.0	4
+2021-Q3	Central NS Correctional Facility	Medical	ANS	2.0	2.5	2.0	2.25	2.5	2.75	3.0	5
+2021-Q3	Central NS Correctional Facility	Medical	ARAB	1.0	5.0	5.0	5.0	5.0	5.0	5.0	5
+2021-Q3	Central NS Correctional Facility	Medical	BLA	1.0	3.0	3.0	3.0	3.0	3.0	3.0	3
+2021-Q3	Central NS Correctional Facility	Medical	CAU	25.0	11.12	0.0	1.0	3.0	11.0	163.0	278
+2021-Q3	Central NS Correctional Facility	Medical	IND	4.0	9.25	1.0	6.25	8.0	11.0	20.0	37
+2021-Q3	Central NS Correctional Facility	Medical	UNK	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2
+2021-Q3	Central NS Correctional Facility	Own Request	ARAB	1.0	51.0	51.0	51.0	51.0	51.0	51.0	51
+2021-Q3	Central NS Correctional Facility	Own Request	BLA	2.0	1.0	0.0	0.5	1.0	1.5	2.0	2
+2021-Q3	Central NS Correctional Facility	Own Request	CAU	14.0	6.5	0.0	1.25	3.5	4.75	32.0	91
+2021-Q3	Central NS Correctional Facility	Own Request	IND	7.0	14.428571428571429	0.0	2.0	4.0	4.5	84.0	101
+2021-Q3	Central NS Correctional Facility	Protection	ARAB	2.0	2.5	2.0	2.25	2.5	2.75	3.0	5
+2021-Q3	Central NS Correctional Facility	Protection	CAU	27.0	7.296296296296297	0.0	1.0	2.0	3.0	119.0	197
+2021-Q3	Central NS Correctional Facility	Protection	IND	2.0	1.0	0.0	0.5	1.0	1.5	2.0	2
+2021-Q3	Central NS Correctional Facility	Protection	OTH	6.0	6.333333333333333	0.0	1.0	1.0	1.0	34.0	38
+2021-Q3	Central NS Correctional Facility	Safety of Others	CAU	3.0	4.666666666666667	3.0	3.5	4.0	5.5	7.0	14
+2021-Q3	Central NS Correctional Facility	Security of Correctional Facility	BLA	16.0	3.3125	0.0	1.0	2.0	4.25	16.0	53
+2021-Q3	Central NS Correctional Facility	Security of Correctional Facility	CAU	11.0	6.0	1.0	1.0	2.0	4.5	34.0	66
+2021-Q3	Central NS Correctional Facility	Security of Correctional Facility	IND	5.0	2.0	0.0	0.0	2.0	2.0	6.0	10
+2021-Q3	Central NS Correctional Facility	Security of Correctional Facility	UNK	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2021-Q3	Northeast NS Correctional Facility	Alleged or Breached Rule	ANS	2.0	1.0	0.0	0.5	1.0	1.5	2.0	2
+2021-Q3	Northeast NS Correctional Facility	Alleged or Breached Rule	BLA	4.0	1.0	0.0	0.75	1.0	1.25	2.0	4
+2021-Q3	Northeast NS Correctional Facility	Alleged or Breached Rule	CAU	60.0	2.55	0.0	0.0	2.0	3.0	18.0	153
+2021-Q3	Northeast NS Correctional Facility	Alleged or Breached Rule	IND	27.0	2.3703703703703702	0.0	1.0	2.0	3.0	9.0	64
+2021-Q3	Northeast NS Correctional Facility	Alleged or Breached Rule	UNK	2.0	0.5	0.0	0.25	0.5	0.75	1.0	1
+2021-Q3	Northeast NS Correctional Facility	COVID-19	ANS	2.0	2.5	2.0	2.25	2.5	2.75	3.0	5
+2021-Q3	Northeast NS Correctional Facility	COVID-19	BLA	4.0	3.5	0.0	2.25	3.5	4.75	7.0	14
+2021-Q3	Northeast NS Correctional Facility	COVID-19	CAU	84.0	1.8571428571428572	0.0	1.0	2.0	2.25	14.0	156
+2021-Q3	Northeast NS Correctional Facility	COVID-19	IND	15.0	0.8666666666666667	0.0	0.0	0.0	2.0	3.0	13
+2021-Q3	Northeast NS Correctional Facility	COVID-19	OTH	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2021-Q3	Northeast NS Correctional Facility	COVID-19	Redacted	1.0	6.0	6.0	6.0	6.0	6.0	6.0	6
+2021-Q3	Northeast NS Correctional Facility	COVID-19	UNK	5.0	1.4	0.0	0.0	1.0	2.0	4.0	7
+2021-Q3	Northeast NS Correctional Facility	High Risk Safety Protocol	CAU	2.0	0.5	0.0	0.25	0.5	0.75	1.0	1
+2021-Q3	Northeast NS Correctional Facility	Housed with Privileges	BLA	6.0	10.666666666666666	1.0	4.25	7.5	11.5	32.0	64
+2021-Q3	Northeast NS Correctional Facility	Housed with Privileges	CAU	16.0	3.4375	0.0	2.0	3.0	4.25	11.0	55
+2021-Q3	Northeast NS Correctional Facility	Housed with Privileges	IND	4.0	3.75	2.0	2.0	2.5	4.25	8.0	15
+2021-Q3	Northeast NS Correctional Facility	Housed with Privileges	OTH	2.0	2.0	1.0	1.5	2.0	2.5	3.0	4
+2021-Q3	Northeast NS Correctional Facility	Medical	BLA	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0
+2021-Q3	Northeast NS Correctional Facility	Medical	CAU	15.0	2.2666666666666666	0.0	0.0	2.0	3.0	12.0	34
+2021-Q3	Northeast NS Correctional Facility	Medical	IND	4.0	9.0	0.0	0.75	1.5	9.75	33.0	36
+2021-Q3	Northeast NS Correctional Facility	Medical	UNK	6.0	1.0	0.0	0.0	0.5	1.0	4.0	6
+2021-Q3	Northeast NS Correctional Facility	Own Request	ANS	2.0	1.5	0.0	0.75	1.5	2.25	3.0	3
+2021-Q3	Northeast NS Correctional Facility	Protection	CAU	7.0	4.857142857142857	0.0	1.0	2.0	7.5	15.0	34
+2021-Q3	Northeast NS Correctional Facility	Security of Correctional Facility	ANS	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0
+2021-Q3	Northeast NS Correctional Facility	Security of Correctional Facility	BLA	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0
+2021-Q3	Northeast NS Correctional Facility	Security of Correctional Facility	CAU	40.0	1.325	0.0	0.0	0.0	3.0	8.0	53
+2021-Q3	Northeast NS Correctional Facility	Security of Correctional Facility	IND	10.0	0.5	0.0	0.0	0.0	0.0	4.0	5
+2021-Q3	Northeast NS Correctional Facility	Security of Correctional Facility	OTH	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0
+2021-Q3	Northeast NS Correctional Facility	Security of Correctional Facility	Redacted	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0
+2021-Q3	Southwest NS Correctional Facility	COVID-19	CAU	8.0	0.75	0.0	0.0	1.0	1.0	2.0	6
+2021-Q3	Southwest NS Correctional Facility	COVID-19	IND	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2021-Q3	Southwest NS Correctional Facility	COVID-19	Redacted	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0
+2021-Q3	Southwest NS Correctional Facility	COVID-19	UNK	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0
+2021-Q4	Cape Breton Correctional Facility	Alleged or Breached Rule	CAU	18.0	1.8888888888888888	1.0	1.0	1.0	2.75	5.0	34
+2021-Q4	Cape Breton Correctional Facility	Alleged or Breached Rule	IND	3.0	0.3333333333333333	0.0	0.0	0.0	0.5	1.0	1
+2021-Q4	Cape Breton Correctional Facility	COVID-19	ANS	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2021-Q4	Cape Breton Correctional Facility	COVID-19	BLA	4.0	1.25	1.0	1.0	1.0	1.25	2.0	5
+2021-Q4	Cape Breton Correctional Facility	COVID-19	CAU	113.0	1.5221238938053097	0.0	1.0	1.0	2.0	5.0	172
+2021-Q4	Cape Breton Correctional Facility	COVID-19	IND	39.0	1.2564102564102564	0.0	1.0	1.0	1.5	3.0	49
+2021-Q4	Cape Breton Correctional Facility	COVID-19	Redacted	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2
+2021-Q4	Cape Breton Correctional Facility	COVID-19	UNK	3.0	1.0	1.0	1.0	1.0	1.0	1.0	3
+2021-Q4	Cape Breton Correctional Facility	High Risk Safety Protocol	IND	5.0	1.8	1.0	1.0	2.0	2.0	3.0	9
+2021-Q4	Cape Breton Correctional Facility	Housed with Privileges	CAU	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2021-Q4	Cape Breton Correctional Facility	Housed with Privileges	IND	7.0	1.8571428571428572	0.0	1.0	1.0	2.5	5.0	13
+2021-Q4	Cape Breton Correctional Facility	Medical	CAU	8.0	1.25	0.0	1.0	1.0	2.0	2.0	10
+2021-Q4	Cape Breton Correctional Facility	Medical	IND	4.0	2.75	0.0	1.5	2.5	3.75	6.0	11
+2021-Q4	Cape Breton Correctional Facility	Own Request	BLA	2.0	2.0	1.0	1.5	2.0	2.5	3.0	4
+2021-Q4	Cape Breton Correctional Facility	Own Request	CAU	6.0	2.1666666666666665	1.0	1.25	2.0	2.75	4.0	13
+2021-Q4	Cape Breton Correctional Facility	Own Request	IND	2.0	1.5	1.0	1.25	1.5	1.75	2.0	3
+2021-Q4	Cape Breton Correctional Facility	Protection	CAU	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0
+2021-Q4	Cape Breton Correctional Facility	Security of Correctional Facility	IND	1.0	3.0	3.0	3.0	3.0	3.0	3.0	3
+2021-Q4	Central NS Correctional Facility	Alleged or Breached Rule	ANS	4.0	8.0	2.0	2.0	2.5	8.5	25.0	32
+2021-Q4	Central NS Correctional Facility	Alleged or Breached Rule	ASIA	2.0	4.5	3.0	3.75	4.5	5.25	6.0	9
+2021-Q4	Central NS Correctional Facility	Alleged or Breached Rule	BLA	22.0	2.772727272727273	0.0	2.0	3.0	4.0	6.0	61
+2021-Q4	Central NS Correctional Facility	Alleged or Breached Rule	CAU	64.0	3.8125	0.0	1.0	3.0	5.0	28.0	244
+2021-Q4	Central NS Correctional Facility	Alleged or Breached Rule	IND	12.0	4.583333333333333	0.0	1.0	2.5	5.25	21.0	55
+2021-Q4	Central NS Correctional Facility	Alleged or Breached Rule	OTH	1.0	3.0	3.0	3.0	3.0	3.0	3.0	3
+2021-Q4	Central NS Correctional Facility	COVID-19	ANS	19.0	2.263157894736842	0.0	1.0	2.0	2.5	9.0	43
+2021-Q4	Central NS Correctional Facility	COVID-19	ARAB	4.0	0.25	0.0	0.0	0.0	0.25	1.0	1
+2021-Q4	Central NS Correctional Facility	COVID-19	ASIA	9.0	3.4444444444444446	0.0	1.0	5.0	5.0	5.0	31
+2021-Q4	Central NS Correctional Facility	COVID-19	BLA	81.0	2.7777777777777777	0.0	1.0	2.0	3.0	15.0	225
+2021-Q4	Central NS Correctional Facility	COVID-19	CAU	502.0	2.5199203187250996	0.0	1.0	2.0	3.0	27.0	1265
+2021-Q4	Central NS Correctional Facility	COVID-19	IND	68.0	2.3970588235294117	0.0	1.0	2.0	3.0	21.0	163
+2021-Q4	Central NS Correctional Facility	COVID-19	OTH	9.0	4.111111111111111	0.0	1.0	3.0	3.0	18.0	37
+2021-Q4	Central NS Correctional Facility	COVID-19	Redacted	4.0	1.0	0.0	0.0	0.5	1.5	3.0	4
+2021-Q4	Central NS Correctional Facility	COVID-19	UNK	21.0	2.142857142857143	0.0	1.0	2.0	3.0	7.0	45
+2021-Q4	Central NS Correctional Facility	High Risk Safety Protocol	BLA	1.0	7.0	7.0	7.0	7.0	7.0	7.0	7
+2021-Q4	Central NS Correctional Facility	High Risk Safety Protocol	CAU	1.0	15.0	15.0	15.0	15.0	15.0	15.0	15
+2021-Q4	Central NS Correctional Facility	High Risk Safety Protocol	IND	5.0	3.6	2.0	2.0	3.0	5.0	6.0	18
+2021-Q4	Central NS Correctional Facility	Housed with Privileges	CAU	2.0	7.5	0.0	3.75	7.5	11.25	15.0	15
+2021-Q4	Central NS Correctional Facility	Medical	BLA	4.0	6.5	0.0	3.0	6.5	10.0	13.0	26
+2021-Q4	Central NS Correctional Facility	Medical	CAU	40.0	7.2	0.0	1.0	3.5	8.25	48.0	288
+2021-Q4	Central NS Correctional Facility	Medical	IND	6.0	2.8333333333333335	1.0	2.0	2.0	3.5	6.0	17
+2021-Q4	Central NS Correctional Facility	Own Request	BLA	5.0	16.4	1.0	2.0	6.0	18.0	55.0	82
+2021-Q4	Central NS Correctional Facility	Own Request	CAU	19.0	12.0	0.0	2.5	6.0	13.0	76.0	228
+2021-Q4	Central NS Correctional Facility	Own Request	IND	5.0	3.4	0.0	2.0	3.0	3.0	9.0	17
+2021-Q4	Central NS Correctional Facility	Protection	CAU	11.0	4.0	0.0	1.0	2.0	6.0	12.0	44
+2021-Q4	Central NS Correctional Facility	Security of Correctional Facility	ANS	4.0	3.25	1.0	2.5	3.0	3.75	6.0	13
+2021-Q4	Central NS Correctional Facility	Security of Correctional Facility	BLA	21.0	6.095238095238095	0.0	3.0	3.0	6.0	26.0	128
+2021-Q4	Central NS Correctional Facility	Security of Correctional Facility	CAU	32.0	5.6875	0.0	3.0	3.0	6.0	27.0	182
+2021-Q4	Central NS Correctional Facility	Security of Correctional Facility	IND	4.0	12.5	3.0	3.0	4.5	14.0	38.0	50
+2021-Q4	Central NS Correctional Facility	Security of Correctional Facility	UNK	2.0	4.5	3.0	3.75	4.5	5.25	6.0	9
+2021-Q4	Northeast NS Correctional Facility	Alleged or Breached Rule	BLA	3.0	5.333333333333333	1.0	2.0	3.0	7.5	12.0	16
+2021-Q4	Northeast NS Correctional Facility	Alleged or Breached Rule	CAU	47.0	3.4893617021276597	0.0	1.0	2.0	4.0	19.0	164
+2021-Q4	Northeast NS Correctional Facility	Alleged or Breached Rule	IND	16.0	2.625	0.0	1.0	1.5	4.0	6.0	42
+2021-Q4	Northeast NS Correctional Facility	COVID-19	ANS	3.0	1.3333333333333333	0.0	0.5	1.0	2.0	3.0	4
+2021-Q4	Northeast NS Correctional Facility	COVID-19	BLA	5.0	1.8	1.0	1.0	2.0	2.0	3.0	9
+2021-Q4	Northeast NS Correctional Facility	COVID-19	CAU	102.0	1.8725490196078431	0.0	1.0	1.0	2.0	13.0	191
+2021-Q4	Northeast NS Correctional Facility	COVID-19	IND	29.0	1.6896551724137931	0.0	1.0	1.0	2.0	6.0	49
+2021-Q4	Northeast NS Correctional Facility	COVID-19	UNK	2.0	1.5	1.0	1.25	1.5	1.75	2.0	3
+2021-Q4	Northeast NS Correctional Facility	Housed with Privileges	BLA	6.0	1.8333333333333333	0.0	1.0	1.0	2.5	5.0	11
+2021-Q4	Northeast NS Correctional Facility	Housed with Privileges	CAU	29.0	4.724137931034483	0.0	2.0	3.0	6.0	24.0	137
+2021-Q4	Northeast NS Correctional Facility	Housed with Privileges	IND	15.0	2.8	1.0	1.5	2.0	4.0	6.0	42
+2021-Q4	Northeast NS Correctional Facility	Medical	BLA	4.0	2.75	1.0	1.0	2.0	3.75	6.0	11
+2021-Q4	Northeast NS Correctional Facility	Medical	CAU	16.0	1.8125	0.0	1.0	1.0	2.25	8.0	29
+2021-Q4	Northeast NS Correctional Facility	Medical	IND	3.0	2.0	1.0	1.5	2.0	2.5	3.0	6
+2021-Q4	Northeast NS Correctional Facility	Own Request	ANS	6.0	3.6666666666666665	0.0	1.0	1.0	3.25	15.0	22
+2021-Q4	Northeast NS Correctional Facility	Own Request	CAU	5.0	4.0	1.0	1.0	3.0	6.0	9.0	20
+2021-Q4	Northeast NS Correctional Facility	Protection	CAU	8.0	4.875	0.0	1.75	4.0	7.0	12.0	39
+2021-Q4	Northeast NS Correctional Facility	Security of Correctional Facility	CAU	35.0	3.657142857142857	0.0	1.0	3.0	4.0	19.0	128
+2021-Q4	Northeast NS Correctional Facility	Security of Correctional Facility	IND	10.0	2.4	1.0	1.25	2.0	3.5	5.0	24
+2021-Q4	Southwest NS Correctional Facility	COVID-19	CAU	5.0	0.8	0.0	0.0	1.0	1.0	2.0	4
+2021-Q4	Southwest NS Correctional Facility	COVID-19	IND	2.0	0.5	0.0	0.25	0.5	0.75	1.0	1
+2021-Q4	Southwest NS Correctional Facility	COVID-19	Redacted	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0
+2021-Q4	Southwest NS Correctional Facility	COVID-19	UNK	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0
+2021-Q4	Southwest NS Correctional Facility	Protection	CAU	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2022-Q1	Cape Breton Correctional Facility	Alleged or Breached Rule	BLA	1.0	4.0	4.0	4.0	4.0	4.0	4.0	4
+2022-Q1	Cape Breton Correctional Facility	Alleged or Breached Rule	CAU	15.0	2.7333333333333334	0.0	0.5	2.0	3.5	9.0	41
+2022-Q1	Cape Breton Correctional Facility	Alleged or Breached Rule	IND	6.0	3.8333333333333335	1.0	1.0	3.0	5.0	10.0	23
+2022-Q1	Cape Breton Correctional Facility	COVID-19	BLA	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2022-Q1	Cape Breton Correctional Facility	COVID-19	CAU	98.0	1.5816326530612246	0.0	1.0	1.0	2.0	4.0	155
+2022-Q1	Cape Breton Correctional Facility	COVID-19	IND	30.0	1.6666666666666667	1.0	1.0	2.0	2.0	4.0	50
+2022-Q1	Cape Breton Correctional Facility	COVID-19	OTH	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2
+2022-Q1	Cape Breton Correctional Facility	COVID-19	UNK	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2
+2022-Q1	Cape Breton Correctional Facility	High Risk Safety Protocol	CAU	1.0	3.0	3.0	3.0	3.0	3.0	3.0	3
+2022-Q1	Cape Breton Correctional Facility	High Risk Safety Protocol	IND	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2022-Q1	Cape Breton Correctional Facility	Housed with Privileges	BLA	2.0	1.5	1.0	1.25	1.5	1.75	2.0	3
+2022-Q1	Cape Breton Correctional Facility	Medical	BLA	2.0	1.0	1.0	1.0	1.0	1.0	1.0	2
+2022-Q1	Cape Breton Correctional Facility	Own Request	CAU	3.0	3.0	1.0	2.5	4.0	4.0	4.0	9
+2022-Q1	Cape Breton Correctional Facility	Security of Correctional Facility	IND	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0
+2022-Q1	Central NS Correctional Facility	Alleged or Breached Rule	ANS	5.0	3.0	1.0	2.0	3.0	4.0	5.0	15
+2022-Q1	Central NS Correctional Facility	Alleged or Breached Rule	ASIA	1.0	5.0	5.0	5.0	5.0	5.0	5.0	5
+2022-Q1	Central NS Correctional Facility	Alleged or Breached Rule	BLA	18.0	5.888888888888889	1.0	2.0	3.5	5.75	35.0	106
+2022-Q1	Central NS Correctional Facility	Alleged or Breached Rule	CAU	63.0	5.523809523809524	1.0	2.0	4.0	9.0	21.0	348
+2022-Q1	Central NS Correctional Facility	Alleged or Breached Rule	IND	9.0	3.111111111111111	1.0	2.0	3.0	4.0	5.0	28
+2022-Q1	Central NS Correctional Facility	COVID-19	ANS	19.0	3.4210526315789473	0.0	1.0	2.0	4.0	14.0	65
+2022-Q1	Central NS Correctional Facility	COVID-19	ARAB	6.0	7.666666666666667	1.0	4.25	7.5	12.25	13.0	46
+2022-Q1	Central NS Correctional Facility	COVID-19	ASIA	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0
+2022-Q1	Central NS Correctional Facility	COVID-19	BLA	42.0	3.619047619047619	0.0	0.25	2.0	4.0	19.0	152
+2022-Q1	Central NS Correctional Facility	COVID-19	CAU	350.0	4.12	0.0	1.0	2.0	5.0	67.0	1442
+2022-Q1	Central NS Correctional Facility	COVID-19	IND	51.0	3.9411764705882355	0.0	1.5	2.0	5.0	16.0	201
+2022-Q1	Central NS Correctional Facility	COVID-19	OTH	12.0	6.25	1.0	1.0	5.5	9.5	16.0	75
+2022-Q1	Central NS Correctional Facility	COVID-19	Redacted	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0
+2022-Q1	Central NS Correctional Facility	COVID-19	UNK	13.0	3.076923076923077	0.0	1.0	2.0	3.0	13.0	40
+2022-Q1	Central NS Correctional Facility	High Risk Safety Protocol	BLA	3.0	5.333333333333333	2.0	3.5	5.0	7.0	9.0	16
+2022-Q1	Central NS Correctional Facility	High Risk Safety Protocol	CAU	4.0	4.25	1.0	1.75	3.0	5.5	10.0	17
+2022-Q1	Central NS Correctional Facility	High Risk Safety Protocol	IND	2.0	2.0	1.0	1.5	2.0	2.5	3.0	4
+2022-Q1	Central NS Correctional Facility	Housed with Privileges	BLA	2.0	6.0	2.0	4.0	6.0	8.0	10.0	12
+2022-Q1	Central NS Correctional Facility	Housed with Privileges	CAU	6.0	5.5	1.0	2.25	4.5	6.75	14.0	33
+2022-Q1	Central NS Correctional Facility	Housed with Privileges	IND	2.0	13.5	0.0	6.75	13.5	20.25	27.0	27
+2022-Q1	Central NS Correctional Facility	Medical	BLA	2.0	41.5	35.0	38.25	41.5	44.75	48.0	83
+2022-Q1	Central NS Correctional Facility	Medical	CAU	27.0	8.555555555555555	1.0	2.0	3.0	10.5	42.0	231
+2022-Q1	Central NS Correctional Facility	Medical	IND	2.0	2.0	1.0	1.5	2.0	2.5	3.0	4
+2022-Q1	Central NS Correctional Facility	Own Request	CAU	10.0	4.0	1.0	1.25	2.5	5.0	13.0	40
+2022-Q1	Central NS Correctional Facility	Own Request	OTH	1.0	14.0	14.0	14.0	14.0	14.0	14.0	14
+2022-Q1	Central NS Correctional Facility	Safety of Others	CAU	3.0	3.0	1.0	2.0	3.0	4.0	5.0	9
+2022-Q1	Central NS Correctional Facility	Security of Correctional Facility	ANS	3.0	5.666666666666667	3.0	3.5	4.0	7.0	10.0	17
+2022-Q1	Central NS Correctional Facility	Security of Correctional Facility	BLA	13.0	4.3076923076923075	1.0	3.0	4.0	6.0	8.0	56
+2022-Q1	Central NS Correctional Facility	Security of Correctional Facility	CAU	18.0	8.555555555555555	1.0	2.0	4.0	6.75	34.0	154
+2022-Q1	Central NS Correctional Facility	Security of Correctional Facility	IND	1.0	7.0	7.0	7.0	7.0	7.0	7.0	7
+2022-Q1	Central NS Correctional Facility	Security of Correctional Facility	UNK	1.0	7.0	7.0	7.0	7.0	7.0	7.0	7
+2022-Q1	Northeast NS Correctional Facility	Alleged or Breached Rule	CAU	27.0	4.592592592592593	0.0	1.0	3.0	7.0	18.0	124
+2022-Q1	Northeast NS Correctional Facility	Alleged or Breached Rule	IND	14.0	5.785714285714286	1.0	5.0	5.5	6.0	11.0	81
+2022-Q1	Northeast NS Correctional Facility	COVID-19	ANS	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2022-Q1	Northeast NS Correctional Facility	COVID-19	CAU	95.0	3.526315789473684	0.0	1.0	2.0	5.0	14.0	335
+2022-Q1	Northeast NS Correctional Facility	COVID-19	IND	24.0	4.208333333333333	1.0	1.0	2.0	6.0	16.0	101
+2022-Q1	Northeast NS Correctional Facility	Housed with Privileges	BLA	3.0	3.0	2.0	2.5	3.0	3.5	4.0	9
+2022-Q1	Northeast NS Correctional Facility	Housed with Privileges	CAU	5.0	4.4	0.0	1.0	4.0	6.0	11.0	22
+2022-Q1	Northeast NS Correctional Facility	Housed with Privileges	IND	3.0	7.0	6.0	6.5	7.0	7.5	8.0	21
+2022-Q1	Northeast NS Correctional Facility	Medical	ANS	1.0	6.0	6.0	6.0	6.0	6.0	6.0	6
+2022-Q1	Northeast NS Correctional Facility	Medical	BLA	2.0	3.5	3.0	3.25	3.5	3.75	4.0	7
+2022-Q1	Northeast NS Correctional Facility	Medical	CAU	4.0	2.75	0.0	0.75	2.5	4.5	6.0	11
+2022-Q1	Northeast NS Correctional Facility	Medical	IND	4.0	7.75	6.0	6.75	8.0	9.0	9.0	31
+2022-Q1	Northeast NS Correctional Facility	Protection	CAU	1.0	6.0	6.0	6.0	6.0	6.0	6.0	6
+2022-Q1	Northeast NS Correctional Facility	Security of Correctional Facility	ANS	10.0	1.7	0.0	0.0	1.0	1.0	10.0	17
+2022-Q1	Northeast NS Correctional Facility	Security of Correctional Facility	BLA	6.0	4.0	1.0	1.0	1.0	7.75	10.0	24
+2022-Q1	Northeast NS Correctional Facility	Security of Correctional Facility	CAU	66.0	3.3181818181818183	1.0	1.0	1.0	4.75	14.0	219
+2022-Q1	Northeast NS Correctional Facility	Security of Correctional Facility	IND	32.0	4.8125	0.0	1.0	1.5	8.0	20.0	154
+2022-Q1	Northeast NS Correctional Facility	Security of Correctional Facility	OTH	2.0	1.0	1.0	1.0	1.0	1.0	1.0	2
+2022-Q1	Northeast NS Correctional Facility	Security of Correctional Facility	Redacted	2.0	3.5	1.0	2.25	3.5	4.75	6.0	7
+2022-Q1	Southwest NS Correctional Facility	COVID-19	CAU	6.0	2.0	1.0	1.25	2.0	2.75	3.0	12
+2022-Q1	Southwest NS Correctional Facility	COVID-19	IND	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2022-Q1	Southwest NS Correctional Facility	COVID-19	Redacted	3.0	1.6666666666666667	0.0	0.5	1.0	2.5	4.0	5
+2022-Q2	Cape Breton Correctional Facility	Alleged or Breached Rule	ANS	2.0	1.5	1.0	1.25	1.5	1.75	2.0	3
+2022-Q2	Cape Breton Correctional Facility	Alleged or Breached Rule	CAU	19.0	2.8421052631578947	1.0	1.0	2.0	3.0	10.0	54
+2022-Q2	Cape Breton Correctional Facility	Alleged or Breached Rule	IND	16.0	2.125	1.0	1.0	1.0	2.5	5.0	34
+2022-Q2	Cape Breton Correctional Facility	COVID-19	BLA	11.0	2.0	0.0	1.5	2.0	2.5	4.0	22
+2022-Q2	Cape Breton Correctional Facility	COVID-19	CAU	97.0	1.5051546391752577	0.0	1.0	1.0	2.0	7.0	146
+2022-Q2	Cape Breton Correctional Facility	COVID-19	IND	49.0	1.9591836734693877	1.0	1.0	2.0	2.0	8.0	96
+2022-Q2	Cape Breton Correctional Facility	COVID-19	OTH	1.0	3.0	3.0	3.0	3.0	3.0	3.0	3
+2022-Q2	Cape Breton Correctional Facility	COVID-19	Redacted	2.0	1.5	1.0	1.25	1.5	1.75	2.0	3
+2022-Q2	Cape Breton Correctional Facility	COVID-19	UNK	2.0	1.0	1.0	1.0	1.0	1.0	1.0	2
+2022-Q2	Cape Breton Correctional Facility	High Risk Safety Protocol	CAU	2.0	3.5	3.0	3.25	3.5	3.75	4.0	7
+2022-Q2	Cape Breton Correctional Facility	High Risk Safety Protocol	IND	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2022-Q2	Cape Breton Correctional Facility	Housed with Privileges	CAU	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2022-Q2	Cape Breton Correctional Facility	Medical	IND	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2022-Q2	Cape Breton Correctional Facility	Own Request	BLA	2.0	4.5	1.0	2.75	4.5	6.25	8.0	9
+2022-Q2	Cape Breton Correctional Facility	Own Request	CAU	6.0	1.1666666666666667	0.0	0.25	1.5	2.0	2.0	7
+2022-Q2	Cape Breton Correctional Facility	Protection	CAU	9.0	0.8888888888888888	0.0	1.0	1.0	1.0	2.0	8
+2022-Q2	Cape Breton Correctional Facility	Security of Correctional Facility	CAU	1.0	4.0	4.0	4.0	4.0	4.0	4.0	4
+2022-Q2	Central NS Correctional Facility	Alleged or Breached Rule	ANS	9.0	12.11111111111111	0.0	5.0	6.0	11.0	42.0	109
+2022-Q2	Central NS Correctional Facility	Alleged or Breached Rule	ARAB	2.0	10.0	5.0	7.5	10.0	12.5	15.0	20
+2022-Q2	Central NS Correctional Facility	Alleged or Breached Rule	ASIA	3.0	4.0	2.0	3.5	5.0	5.0	5.0	12
+2022-Q2	Central NS Correctional Facility	Alleged or Breached Rule	BLA	26.0	7.884615384615385	2.0	3.25	5.0	10.75	22.0	205
+2022-Q2	Central NS Correctional Facility	Alleged or Breached Rule	CAU	92.0	6.706521739130435	0.0	3.0	5.0	8.25	30.0	617
+2022-Q2	Central NS Correctional Facility	Alleged or Breached Rule	IND	11.0	6.090909090909091	0.0	3.0	5.0	9.0	14.0	67
+2022-Q2	Central NS Correctional Facility	Alleged or Breached Rule	OTH	1.0	7.0	7.0	7.0	7.0	7.0	7.0	7
+2022-Q2	Central NS Correctional Facility	Alleged or Breached Rule	UNK	3.0	7.666666666666667	2.0	4.0	6.0	10.5	15.0	23
+2022-Q2	Central NS Correctional Facility	COVID-19	ANS	21.0	4.476190476190476	0.0	1.0	2.0	7.0	25.0	94
+2022-Q2	Central NS Correctional Facility	COVID-19	ARAB	5.0	4.6	0.0	2.0	2.0	5.0	14.0	23
+2022-Q2	Central NS Correctional Facility	COVID-19	ASIA	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0
+2022-Q2	Central NS Correctional Facility	COVID-19	BLA	46.0	5.565217391304348	0.0	2.0	3.0	9.75	20.0	256
+2022-Q2	Central NS Correctional Facility	COVID-19	CAU	355.0	4.047887323943662	0.0	1.0	2.0	5.0	57.0	1437
+2022-Q2	Central NS Correctional Facility	COVID-19	IND	37.0	4.081081081081081	0.0	1.0	2.0	4.0	25.0	151
+2022-Q2	Central NS Correctional Facility	COVID-19	OTH	6.0	4.833333333333333	1.0	1.5	3.0	6.75	13.0	29
+2022-Q2	Central NS Correctional Facility	COVID-19	UNK	8.0	3.75	0.0	1.0	2.5	5.0	13.0	30
+2022-Q2	Central NS Correctional Facility	High Risk Safety Protocol	BLA	2.0	1.5	0.0	0.75	1.5	2.25	3.0	3
+2022-Q2	Central NS Correctional Facility	Housed with Privileges	BLA	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0
+2022-Q2	Central NS Correctional Facility	Housed with Privileges	CAU	7.0	10.857142857142858	3.0	6.0	7.0	14.5	25.0	76
+2022-Q2	Central NS Correctional Facility	Housed with Privileges	IND	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2022-Q2	Central NS Correctional Facility	Medical	CAU	23.0	14.521739130434783	0.0	2.0	6.0	17.5	99.0	334
+2022-Q2	Central NS Correctional Facility	Own Request	ANS	1.0	16.0	16.0	16.0	16.0	16.0	16.0	16
+2022-Q2	Central NS Correctional Facility	Own Request	ARAB	1.0	67.0	67.0	67.0	67.0	67.0	67.0	67
+2022-Q2	Central NS Correctional Facility	Own Request	BLA	3.0	22.0	5.0	13.5	22.0	30.5	39.0	66
+2022-Q2	Central NS Correctional Facility	Own Request	CAU	37.0	7.4324324324324325	0.0	2.0	5.0	12.0	25.0	275
+2022-Q2	Central NS Correctional Facility	Own Request	OTH	1.0	5.0	5.0	5.0	5.0	5.0	5.0	5
+2022-Q2	Central NS Correctional Facility	Protection	ANS	3.0	5.666666666666667	3.0	3.0	3.0	7.0	11.0	17
+2022-Q2	Central NS Correctional Facility	Protection	CAU	2.0	1.0	0.0	0.5	1.0	1.5	2.0	2
+2022-Q2	Central NS Correctional Facility	Security of Correctional Facility	ANS	2.0	46.0	6.0	26.0	46.0	66.0	86.0	92
+2022-Q2	Central NS Correctional Facility	Security of Correctional Facility	BLA	26.0	5.076923076923077	0.0	2.0	3.0	7.0	24.0	132
+2022-Q2	Central NS Correctional Facility	Security of Correctional Facility	CAU	52.0	5.576923076923077	0.0	2.0	2.0	5.0	55.0	290
+2022-Q2	Central NS Correctional Facility	Security of Correctional Facility	IND	7.0	9.857142857142858	1.0	2.0	2.0	7.0	48.0	69
+2022-Q2	Central NS Correctional Facility	Security of Correctional Facility	UNK	2.0	2.0	2.0	2.0	2.0	2.0	2.0	4
+2022-Q2	Northeast NS Correctional Facility	Alleged or Breached Rule	BLA	5.0	4.2	0.0	1.0	4.0	7.0	9.0	21
+2022-Q2	Northeast NS Correctional Facility	Alleged or Breached Rule	CAU	29.0	5.172413793103448	0.0	3.0	4.0	7.0	15.0	150
+2022-Q2	Northeast NS Correctional Facility	Alleged or Breached Rule	IND	6.0	7.166666666666667	2.0	4.0	7.0	9.25	14.0	43
+2022-Q2	Northeast NS Correctional Facility	COVID-19	ANS	3.0	3.6666666666666665	1.0	2.0	3.0	5.0	7.0	11
+2022-Q2	Northeast NS Correctional Facility	COVID-19	BLA	15.0	6.533333333333333	0.0	2.0	6.0	8.5	17.0	98
+2022-Q2	Northeast NS Correctional Facility	COVID-19	CAU	142.0	5.253521126760563	0.0	1.0	3.5	8.0	21.0	746
+2022-Q2	Northeast NS Correctional Facility	COVID-19	IND	22.0	4.045454545454546	1.0	1.25	3.0	4.75	15.0	89
+2022-Q2	Northeast NS Correctional Facility	COVID-19	OTH	2.0	3.5	1.0	2.25	3.5	4.75	6.0	7
+2022-Q2	Northeast NS Correctional Facility	COVID-19	Redacted	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2022-Q2	Northeast NS Correctional Facility	COVID-19	UNK	3.0	3.6666666666666665	1.0	2.5	4.0	5.0	6.0	11
+2022-Q2	Northeast NS Correctional Facility	Housed with Privileges	BLA	1.0	5.0	5.0	5.0	5.0	5.0	5.0	5
+2022-Q2	Northeast NS Correctional Facility	Housed with Privileges	CAU	9.0	2.888888888888889	0.0	1.0	2.0	2.0	9.0	26
+2022-Q2	Northeast NS Correctional Facility	Medical	CAU	11.0	4.181818181818182	0.0	1.0	2.0	7.5	9.0	46
+2022-Q2	Northeast NS Correctional Facility	Medical	IND	5.0	5.0	2.0	3.0	6.0	7.0	7.0	25
+2022-Q2	Northeast NS Correctional Facility	Protection	CAU	1.0	6.0	6.0	6.0	6.0	6.0	6.0	6
+2022-Q2	Northeast NS Correctional Facility	Safety of Others	CAU	1.0	3.0	3.0	3.0	3.0	3.0	3.0	3
+2022-Q2	Northeast NS Correctional Facility	Security of Correctional Facility	BLA	6.0	10.166666666666666	1.0	4.75	14.0	15.0	15.0	61
+2022-Q2	Northeast NS Correctional Facility	Security of Correctional Facility	CAU	33.0	4.636363636363637	1.0	2.0	3.0	6.0	15.0	153
+2022-Q2	Northeast NS Correctional Facility	Security of Correctional Facility	IND	25.0	3.84	1.0	1.0	3.0	4.0	18.0	96
+2022-Q2	Northeast NS Correctional Facility	Security of Correctional Facility	OTH	4.0	4.0	0.0	2.25	4.0	5.75	8.0	16
+2022-Q2	Southwest NS Correctional Facility	COVID-19	CAU	19.0	2.5789473684210527	1.0	1.0	2.0	4.0	6.0	49
+2022-Q2	Southwest NS Correctional Facility	COVID-19	IND	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2022-Q2	Southwest NS Correctional Facility	COVID-19	Redacted	4.0	3.0	1.0	2.5	3.5	4.0	4.0	12
+2022-Q2	Southwest NS Correctional Facility	COVID-19	UNK	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2022-Q3	Cape Breton Correctional Facility	Alleged or Breached Rule	CAU	17.0	2.7058823529411766	0.0	2.0	2.0	4.0	7.0	46
+2022-Q3	Cape Breton Correctional Facility	Alleged or Breached Rule	IND	13.0	2.3076923076923075	0.0	1.0	2.0	2.0	8.0	30
+2022-Q3	Cape Breton Correctional Facility	COVID-19	BLA	8.0	1.5	0.0	1.0	2.0	2.0	2.0	12
+2022-Q3	Cape Breton Correctional Facility	COVID-19	CAU	77.0	1.4935064935064934	0.0	1.0	1.0	2.0	7.0	115
+2022-Q3	Cape Breton Correctional Facility	COVID-19	IND	32.0	1.4375	1.0	1.0	1.0	2.0	3.0	46
+2022-Q3	Cape Breton Correctional Facility	High Risk Safety Protocol	CAU	1.0	4.0	4.0	4.0	4.0	4.0	4.0	4
+2022-Q3	Cape Breton Correctional Facility	Housed with Privileges	CAU	5.0	3.6	1.0	3.0	3.0	4.0	7.0	18
+2022-Q3	Cape Breton Correctional Facility	Housed with Privileges	IND	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2
+2022-Q3	Cape Breton Correctional Facility	Medical	CAU	3.0	1.3333333333333333	1.0	1.0	1.0	1.5	2.0	4
+2022-Q3	Cape Breton Correctional Facility	Medical	IND	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2
+2022-Q3	Cape Breton Correctional Facility	Own Request	CAU	5.0	1.2	0.0	1.0	1.0	2.0	2.0	6
+2022-Q3	Cape Breton Correctional Facility	Own Request	IND	3.0	4.0	1.0	2.0	3.0	5.5	8.0	12
+2022-Q3	Cape Breton Correctional Facility	Protection	IND	2.0	1.0	0.0	0.5	1.0	1.5	2.0	2
+2022-Q3	Central NS Correctional Facility	Alleged or Breached Rule	ANS	15.0	5.666666666666667	1.0	4.0	5.0	6.5	19.0	85
+2022-Q3	Central NS Correctional Facility	Alleged or Breached Rule	ARAB	2.0	20.5	2.0	11.25	20.5	29.75	39.0	41
+2022-Q3	Central NS Correctional Facility	Alleged or Breached Rule	ASIA	1.0	3.0	3.0	3.0	3.0	3.0	3.0	3
+2022-Q3	Central NS Correctional Facility	Alleged or Breached Rule	BLA	26.0	5.961538461538462	0.0	3.0	5.0	7.75	28.0	155
+2022-Q3	Central NS Correctional Facility	Alleged or Breached Rule	CAU	91.0	6.681318681318682	0.0	2.5	5.0	7.0	61.0	608
+2022-Q3	Central NS Correctional Facility	Alleged or Breached Rule	IND	18.0	9.277777777777779	1.0	4.0	6.5	10.75	34.0	167
+2022-Q3	Central NS Correctional Facility	Alleged or Breached Rule	OTH	1.0	7.0	7.0	7.0	7.0	7.0	7.0	7
+2022-Q3	Central NS Correctional Facility	COVID-19	ANS	10.0	3.8	2.0	2.25	3.0	4.75	8.0	38
+2022-Q3	Central NS Correctional Facility	COVID-19	ARAB	3.0	7.666666666666667	2.0	3.0	4.0	10.5	17.0	23
+2022-Q3	Central NS Correctional Facility	COVID-19	ASIA	4.0	8.5	3.0	3.0	4.0	9.5	23.0	34
+2022-Q3	Central NS Correctional Facility	COVID-19	BLA	32.0	4.125	0.0	1.0	2.5	6.0	19.0	132
+2022-Q3	Central NS Correctional Facility	COVID-19	CAU	262.0	4.645038167938932	0.0	1.0	3.0	5.0	32.0	1217
+2022-Q3	Central NS Correctional Facility	COVID-19	IND	26.0	4.038461538461538	1.0	1.25	3.0	6.0	13.0	105
+2022-Q3	Central NS Correctional Facility	COVID-19	OTH	9.0	3.3333333333333335	1.0	2.0	3.0	5.0	6.0	30
+2022-Q3	Central NS Correctional Facility	COVID-19	Redacted	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2022-Q3	Central NS Correctional Facility	COVID-19	UNK	3.0	1.6666666666666667	1.0	1.0	1.0	2.0	3.0	5
+2022-Q3	Central NS Correctional Facility	High Risk Safety Protocol	BLA	2.0	4.5	4.0	4.25	4.5	4.75	5.0	9
+2022-Q3	Central NS Correctional Facility	High Risk Safety Protocol	CAU	4.0	17.25	2.0	2.0	10.5	25.75	46.0	69
+2022-Q3	Central NS Correctional Facility	Housed with Privileges	BLA	1.0	30.0	30.0	30.0	30.0	30.0	30.0	30
+2022-Q3	Central NS Correctional Facility	Housed with Privileges	CAU	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2
+2022-Q3	Central NS Correctional Facility	Medical	CAU	24.0	13.041666666666666	1.0	1.75	4.5	13.0	75.0	313
+2022-Q3	Central NS Correctional Facility	Medical	IND	4.0	19.0	3.0	4.5	5.5	20.0	62.0	76
+2022-Q3	Central NS Correctional Facility	Medical	OTH	2.0	7.5	7.0	7.25	7.5	7.75	8.0	15
+2022-Q3	Central NS Correctional Facility	Own Request	ANS	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2022-Q3	Central NS Correctional Facility	Own Request	BLA	4.0	23.0	3.0	3.75	9.5	28.75	70.0	92
+2022-Q3	Central NS Correctional Facility	Own Request	CAU	24.0	9.875	0.0	2.75	5.0	10.5	57.0	237
+2022-Q3	Central NS Correctional Facility	Own Request	IND	2.0	1.5	1.0	1.25	1.5	1.75	2.0	3
+2022-Q3	Central NS Correctional Facility	Own Request	OTH	2.0	2.0	1.0	1.5	2.0	2.5	3.0	4
+2022-Q3	Central NS Correctional Facility	Own Request	UNK	1.0	21.0	21.0	21.0	21.0	21.0	21.0	21
+2022-Q3	Central NS Correctional Facility	Protection	ANS	1.0	7.0	7.0	7.0	7.0	7.0	7.0	7
+2022-Q3	Central NS Correctional Facility	Protection	BLA	4.0	34.75	0.0	25.5	36.5	45.75	66.0	139
+2022-Q3	Central NS Correctional Facility	Protection	CAU	6.0	5.0	1.0	2.5	4.0	7.75	10.0	30
+2022-Q3	Central NS Correctional Facility	Security of Correctional Facility	BLA	18.0	4.333333333333333	1.0	2.25	5.0	5.0	10.0	78
+2022-Q3	Central NS Correctional Facility	Security of Correctional Facility	CAU	28.0	4.964285714285714	0.0	3.75	5.0	5.25	12.0	139
+2022-Q3	Central NS Correctional Facility	Security of Correctional Facility	IND	5.0	3.4	1.0	3.0	3.0	5.0	5.0	17
+2022-Q3	Central NS Correctional Facility	Security of Correctional Facility	UNK	1.0	5.0	5.0	5.0	5.0	5.0	5.0	5
+2022-Q3	Northeast NS Correctional Facility	Alleged or Breached Rule	ANS	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2022-Q3	Northeast NS Correctional Facility	Alleged or Breached Rule	BLA	3.0	9.666666666666666	1.0	1.5	2.0	14.0	26.0	29
+2022-Q3	Northeast NS Correctional Facility	Alleged or Breached Rule	CAU	56.0	6.142857142857143	0.0	2.0	5.0	9.0	17.0	344
+2022-Q3	Northeast NS Correctional Facility	Alleged or Breached Rule	IND	18.0	5.055555555555555	0.0	2.0	3.0	8.0	15.0	91
+2022-Q3	Northeast NS Correctional Facility	Alleged or Breached Rule	OTH	2.0	5.5	5.0	5.25	5.5	5.75	6.0	11
+2022-Q3	Northeast NS Correctional Facility	Alleged or Breached Rule	UNK	1.0	9.0	9.0	9.0	9.0	9.0	9.0	9
+2022-Q3	Northeast NS Correctional Facility	COVID-19	BLA	14.0	5.428571428571429	1.0	2.0	3.5	7.0	17.0	76
+2022-Q3	Northeast NS Correctional Facility	COVID-19	CAU	154.0	4.240259740259741	0.0	2.0	4.0	4.0	23.0	653
+2022-Q3	Northeast NS Correctional Facility	COVID-19	IND	28.0	3.892857142857143	0.0	2.0	3.5	4.0	14.0	109
+2022-Q3	Northeast NS Correctional Facility	COVID-19	OTH	2.0	5.5	4.0	4.75	5.5	6.25	7.0	11
+2022-Q3	Northeast NS Correctional Facility	COVID-19	UNK	6.0	3.0	1.0	2.0	2.5	3.75	6.0	18
+2022-Q3	Northeast NS Correctional Facility	Housed with Privileges	CAU	7.0	6.285714285714286	1.0	2.5	6.0	7.5	17.0	44
+2022-Q3	Northeast NS Correctional Facility	Medical	CAU	18.0	5.888888888888889	1.0	3.25	4.5	7.75	14.0	106
+2022-Q3	Northeast NS Correctional Facility	Medical	IND	3.0	8.666666666666666	3.0	4.5	6.0	11.5	17.0	26
+2022-Q3	Northeast NS Correctional Facility	Protection	CAU	4.0	2.5	0.0	0.75	1.0	2.75	8.0	10
+2022-Q3	Northeast NS Correctional Facility	Protection	IND	1.0	8.0	8.0	8.0	8.0	8.0	8.0	8
+2022-Q3	Northeast NS Correctional Facility	Safety of Others	CAU	3.0	16.0	3.0	6.0	9.0	22.5	36.0	48
+2022-Q3	Northeast NS Correctional Facility	Security of Correctional Facility	BLA	2.0	4.0	4.0	4.0	4.0	4.0	4.0	8
+2022-Q3	Northeast NS Correctional Facility	Security of Correctional Facility	CAU	16.0	2.8125	1.0	1.0	3.0	4.0	7.0	45
+2022-Q3	Northeast NS Correctional Facility	Security of Correctional Facility	IND	15.0	5.533333333333333	1.0	3.0	4.0	5.0	20.0	83
+2022-Q3	Northeast NS Correctional Facility	Security of Correctional Facility	OTH	4.0	4.25	1.0	1.0	1.0	4.25	14.0	17
+2022-Q3	Northeast NS Correctional Facility	Security of Correctional Facility	Redacted	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2
+2022-Q3	Southwest NS Correctional Facility	COVID-19	CAU	17.0	3.764705882352941	0.0	1.0	3.0	6.0	11.0	64
+2022-Q3	Southwest NS Correctional Facility	COVID-19	IND	2.0	2.5	2.0	2.25	2.5	2.75	3.0	5
+2022-Q3	Southwest NS Correctional Facility	COVID-19	Redacted	2.0	2.5	1.0	1.75	2.5	3.25	4.0	5
+2022-Q3	Southwest NS Correctional Facility	COVID-19	UNK	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2022-Q3	Southwest NS Correctional Facility	Housed with Privileges	CAU	2.0	7.0	2.0	4.5	7.0	9.5	12.0	14
+2022-Q3	Southwest NS Correctional Facility	Housed with Privileges	IND	1.0	4.0	4.0	4.0	4.0	4.0	4.0	4
+2022-Q4	Cape Breton Correctional Facility	Alleged or Breached Rule	CAU	23.0	2.869565217391304	0.0	1.0	3.0	3.5	10.0	66
+2022-Q4	Cape Breton Correctional Facility	Alleged or Breached Rule	IND	16.0	2.8125	1.0	1.75	2.0	3.25	9.0	45
+2022-Q4	Cape Breton Correctional Facility	COVID-19	ANS	2.0	2.0	2.0	2.0	2.0	2.0	2.0	4
+2022-Q4	Cape Breton Correctional Facility	COVID-19	BLA	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2022-Q4	Cape Breton Correctional Facility	COVID-19	CAU	78.0	1.6025641025641026	0.0	1.0	1.0	2.0	7.0	125
+2022-Q4	Cape Breton Correctional Facility	COVID-19	IND	25.0	1.88	0.0	1.0	1.0	2.0	6.0	47
+2022-Q4	Cape Breton Correctional Facility	COVID-19	OTH	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2022-Q4	Cape Breton Correctional Facility	High Risk Safety Protocol	CAU	2.0	2.0	1.0	1.5	2.0	2.5	3.0	4
+2022-Q4	Cape Breton Correctional Facility	Housed with Privileges	CAU	9.0	3.5555555555555554	1.0	2.0	4.0	4.0	8.0	32
+2022-Q4	Cape Breton Correctional Facility	Medical	CAU	7.0	1.1428571428571428	1.0	1.0	1.0	1.0	2.0	8
+2022-Q4	Cape Breton Correctional Facility	Medical	IND	2.0	0.5	0.0	0.25	0.5	0.75	1.0	1
+2022-Q4	Cape Breton Correctional Facility	Own Request	CAU	10.0	1.8	0.0	1.0	2.0	2.75	3.0	18
+2022-Q4	Cape Breton Correctional Facility	Own Request	IND	4.0	2.0	1.0	1.75	2.0	2.25	3.0	8
+2022-Q4	Central NS Correctional Facility	Alleged or Breached Rule	ANS	13.0	3.6153846153846154	1.0	2.0	3.0	5.0	8.0	47
+2022-Q4	Central NS Correctional Facility	Alleged or Breached Rule	BLA	17.0	6.235294117647059	1.0	3.0	4.0	6.0	24.0	106
+2022-Q4	Central NS Correctional Facility	Alleged or Breached Rule	CAU	77.0	6.532467532467533	0.0	3.0	4.0	7.0	84.0	503
+2022-Q4	Central NS Correctional Facility	Alleged or Breached Rule	IND	17.0	7.647058823529412	0.0	3.0	8.0	10.0	20.0	130
+2022-Q4	Central NS Correctional Facility	Alleged or Breached Rule	UNK	2.0	4.0	3.0	3.5	4.0	4.5	5.0	8
+2022-Q4	Central NS Correctional Facility	COVID-19	ANS	8.0	3.625	1.0	1.0	1.5	4.0	11.0	29
+2022-Q4	Central NS Correctional Facility	COVID-19	ARAB	2.0	1.5	1.0	1.25	1.5	1.75	2.0	3
+2022-Q4	Central NS Correctional Facility	COVID-19	ASIA	3.0	1.6666666666666667	1.0	1.0	1.0	2.0	3.0	5
+2022-Q4	Central NS Correctional Facility	COVID-19	BLA	35.0	4.457142857142857	0.0	2.0	3.0	6.0	13.0	156
+2022-Q4	Central NS Correctional Facility	COVID-19	CAU	210.0	4.085714285714285	0.0	1.0	3.0	6.0	21.0	858
+2022-Q4	Central NS Correctional Facility	COVID-19	IND	22.0	3.1818181818181817	0.0	1.0	3.0	4.0	12.0	70
+2022-Q4	Central NS Correctional Facility	COVID-19	OTH	7.0	6.428571428571429	2.0	4.0	7.0	8.5	11.0	45
+2022-Q4	Central NS Correctional Facility	COVID-19	Redacted	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2022-Q4	Central NS Correctional Facility	COVID-19	UNK	2.0	5.5	1.0	3.25	5.5	7.75	10.0	11
+2022-Q4	Central NS Correctional Facility	High Risk Safety Protocol	BLA	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2
+2022-Q4	Central NS Correctional Facility	High Risk Safety Protocol	CAU	10.0	16.9	1.0	3.0	4.5	17.75	74.0	169
+2022-Q4	Central NS Correctional Facility	High Risk Safety Protocol	IND	1.0	5.0	5.0	5.0	5.0	5.0	5.0	5
+2022-Q4	Central NS Correctional Facility	Housed with Privileges	BLA	5.0	17.4	1.0	3.0	3.0	3.0	77.0	87
+2022-Q4	Central NS Correctional Facility	Housed with Privileges	CAU	7.0	8.714285714285714	2.0	3.0	3.0	9.0	32.0	61
+2022-Q4	Central NS Correctional Facility	Housed with Privileges	IND	10.0	4.6	3.0	3.0	3.0	3.0	15.0	46
+2022-Q4	Central NS Correctional Facility	Housed with Privileges	OTH	1.0	5.0	5.0	5.0	5.0	5.0	5.0	5
+2022-Q4	Central NS Correctional Facility	Housed with Privileges	UNK	1.0	4.0	4.0	4.0	4.0	4.0	4.0	4
+2022-Q4	Central NS Correctional Facility	Medical	ANS	2.0	6.0	1.0	3.5	6.0	8.5	11.0	12
+2022-Q4	Central NS Correctional Facility	Medical	ARAB	4.0	10.0	0.0	1.5	2.5	11.0	35.0	40
+2022-Q4	Central NS Correctional Facility	Medical	ASIA	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2022-Q4	Central NS Correctional Facility	Medical	BLA	8.0	10.625	0.0	0.75	4.0	7.75	59.0	85
+2022-Q4	Central NS Correctional Facility	Medical	CAU	52.0	7.4423076923076925	0.0	1.0	3.0	4.25	149.0	387
+2022-Q4	Central NS Correctional Facility	Medical	IND	11.0	12.636363636363637	1.0	2.5	7.0	15.0	67.0	139
+2022-Q4	Central NS Correctional Facility	Medical	OTH	1.0	51.0	51.0	51.0	51.0	51.0	51.0	51
+2022-Q4	Central NS Correctional Facility	Medical	UNK	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2022-Q4	Central NS Correctional Facility	Own Request	ANS	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0
+2022-Q4	Central NS Correctional Facility	Own Request	ARAB	3.0	17.333333333333332	3.0	3.0	3.0	24.5	46.0	52
+2022-Q4	Central NS Correctional Facility	Own Request	BLA	5.0	87.0	3.0	11.0	59.0	178.0	184.0	435
+2022-Q4	Central NS Correctional Facility	Own Request	CAU	26.0	9.461538461538462	1.0	3.25	6.0	13.5	33.0	246
+2022-Q4	Central NS Correctional Facility	Own Request	IND	5.0	7.2	0.0	1.0	1.0	3.0	31.0	36
+2022-Q4	Central NS Correctional Facility	Protection	BLA	2.0	3.5	3.0	3.25	3.5	3.75	4.0	7
+2022-Q4	Central NS Correctional Facility	Protection	CAU	8.0	9.5	1.0	3.25	6.5	12.5	27.0	76
+2022-Q4	Central NS Correctional Facility	Safety of Others	CAU	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0
+2022-Q4	Central NS Correctional Facility	Security of Correctional Facility	ANS	1.0	3.0	3.0	3.0	3.0	3.0	3.0	3
+2022-Q4	Central NS Correctional Facility	Security of Correctional Facility	BLA	11.0	5.090909090909091	1.0	4.0	5.0	5.0	10.0	56
+2022-Q4	Central NS Correctional Facility	Security of Correctional Facility	CAU	13.0	4.6923076923076925	1.0	3.0	5.0	5.0	12.0	61
+2022-Q4	Central NS Correctional Facility	Security of Correctional Facility	IND	6.0	3.8333333333333335	0.0	2.0	3.0	4.75	10.0	23
+2022-Q4	Central NS Correctional Facility	Security of Correctional Facility	UNK	7.0	8.428571428571429	4.0	5.0	5.0	8.5	23.0	59
+2022-Q4	Northeast NS Correctional Facility	Alleged or Breached Rule	ANS	2.0	3.5	3.0	3.25	3.5	3.75	4.0	7
+2022-Q4	Northeast NS Correctional Facility	Alleged or Breached Rule	BLA	6.0	2.5	0.0	0.25	2.5	4.75	5.0	15
+2022-Q4	Northeast NS Correctional Facility	Alleged or Breached Rule	CAU	110.0	3.5	0.0	2.0	3.0	5.0	13.0	385
+2022-Q4	Northeast NS Correctional Facility	Alleged or Breached Rule	IND	22.0	3.272727272727273	0.0	2.0	3.0	4.75	9.0	72
+2022-Q4	Northeast NS Correctional Facility	Alleged or Breached Rule	OTH	2.0	1.0	0.0	0.5	1.0	1.5	2.0	2
+2022-Q4	Northeast NS Correctional Facility	Alleged or Breached Rule	UNK	3.0	4.666666666666667	3.0	3.0	3.0	5.5	8.0	14
+2022-Q4	Northeast NS Correctional Facility	COVID-19	BLA	8.0	3.0	1.0	1.75	2.5	4.0	7.0	24
+2022-Q4	Northeast NS Correctional Facility	COVID-19	CAU	91.0	4.549450549450549	0.0	2.0	4.0	7.0	12.0	414
+2022-Q4	Northeast NS Correctional Facility	COVID-19	IND	10.0	4.2	1.0	1.5	4.0	6.25	9.0	42
+2022-Q4	Northeast NS Correctional Facility	COVID-19	OTH	2.0	4.5	3.0	3.75	4.5	5.25	6.0	9
+2022-Q4	Northeast NS Correctional Facility	COVID-19	Redacted	2.0	3.0	2.0	2.5	3.0	3.5	4.0	6
+2022-Q4	Northeast NS Correctional Facility	COVID-19	UNK	3.0	6.666666666666667	3.0	5.5	8.0	8.5	9.0	20
+2022-Q4	Northeast NS Correctional Facility	High Risk Safety Protocol	CAU	1.0	11.0	11.0	11.0	11.0	11.0	11.0	11
+2022-Q4	Northeast NS Correctional Facility	Housed with Privileges	BLA	8.0	3.0	0.0	0.75	4.0	4.25	6.0	24
+2022-Q4	Northeast NS Correctional Facility	Housed with Privileges	CAU	28.0	3.3214285714285716	1.0	1.75	3.0	4.0	11.0	93
+2022-Q4	Northeast NS Correctional Facility	Housed with Privileges	IND	8.0	1.0	0.0	1.0	1.0	1.0	2.0	8
+2022-Q4	Northeast NS Correctional Facility	Housed with Privileges	OTH	1.0	2.0	2.0	2.0	2.0	2.0	2.0	2
+2022-Q4	Northeast NS Correctional Facility	Housed with Privileges	UNK	1.0	4.0	4.0	4.0	4.0	4.0	4.0	4
+2022-Q4	Northeast NS Correctional Facility	Medical	CAU	26.0	2.923076923076923	0.0	1.0	1.0	4.75	8.0	76
+2022-Q4	Northeast NS Correctional Facility	Medical	IND	2.0	8.5	4.0	6.25	8.5	10.75	13.0	17
+2022-Q4	Northeast NS Correctional Facility	Own Request	CAU	4.0	1.25	0.0	0.75	1.0	1.5	3.0	5
+2022-Q4	Northeast NS Correctional Facility	Protection	BLA	5.0	2.8	1.0	1.0	1.0	5.0	6.0	14
+2022-Q4	Northeast NS Correctional Facility	Protection	CAU	2.0	11.0	10.0	10.5	11.0	11.5	12.0	22
+2022-Q4	Northeast NS Correctional Facility	Security of Correctional Facility	BLA	4.0	3.25	0.0	1.5	3.0	4.75	7.0	13
+2022-Q4	Northeast NS Correctional Facility	Security of Correctional Facility	CAU	12.0	4.916666666666667	1.0	1.75	5.0	7.0	12.0	59
+2022-Q4	Northeast NS Correctional Facility	Security of Correctional Facility	IND	8.0	3.875	1.0	2.75	4.0	5.25	6.0	31
+2022-Q4	Northeast NS Correctional Facility	Security of Correctional Facility	OTH	2.0	4.5	2.0	3.25	4.5	5.75	7.0	9
+2022-Q4	Northeast NS Correctional Facility	Security of Correctional Facility	Redacted	3.0	2.0	1.0	1.0	1.0	2.5	4.0	6
+2022-Q4	Southwest NS Correctional Facility	Alleged or Breached Rule	CAU	1.0	6.0	6.0	6.0	6.0	6.0	6.0	6
+2022-Q4	Southwest NS Correctional Facility	COVID-19	CAU	9.0	4.333333333333333	1.0	1.0	3.0	7.0	14.0	39
+2022-Q4	Southwest NS Correctional Facility	COVID-19	IND	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0
+2022-Q4	Southwest NS Correctional Facility	COVID-19	Redacted	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
+2022-Q4	Southwest NS Correctional Facility	COVID-19	UNK	1.0	11.0	11.0	11.0	11.0	11.0	11.0	11
+2022-Q4	Southwest NS Correctional Facility	Housed with Privileges	IND	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1
