@@ -1,0 +1,126 @@
+Correctional Facility	Confinement Reason	Ethnic Origin	Total Segregation Duration (Days)	Segregations (Distinct Events)
+Cape Breton Correctional Facility	Alleged or Breached Rule	ANS	3	2
+Cape Breton Correctional Facility	Alleged or Breached Rule	BLA	4	1
+Cape Breton Correctional Facility	Alleged or Breached Rule	CAU	352	149
+Cape Breton Correctional Facility	Alleged or Breached Rule	IND	171	72
+Cape Breton Correctional Facility	Alleged or Breached Rule	OTH	11	4
+Cape Breton Correctional Facility	COVID-19	ANS	7	5
+Cape Breton Correctional Facility	COVID-19	BLA	59	38
+Cape Breton Correctional Facility	COVID-19	CAU	1056	719
+Cape Breton Correctional Facility	COVID-19	IND	400	264
+Cape Breton Correctional Facility	COVID-19	OTH	9	5
+Cape Breton Correctional Facility	COVID-19	Redacted	9	6
+Cape Breton Correctional Facility	COVID-19	UNK	12	11
+Cape Breton Correctional Facility	High Risk Safety Protocol	CAU	21	8
+Cape Breton Correctional Facility	High Risk Safety Protocol	IND	11	7
+Cape Breton Correctional Facility	Housed with Privileges	BLA	3	2
+Cape Breton Correctional Facility	Housed with Privileges	CAU	60	26
+Cape Breton Correctional Facility	Housed with Privileges	IND	15	8
+Cape Breton Correctional Facility	Medical	BLA	12	7
+Cape Breton Correctional Facility	Medical	CAU	49	31
+Cape Breton Correctional Facility	Medical	IND	20	12
+Cape Breton Correctional Facility	Own Request	BLA	18	8
+Cape Breton Correctional Facility	Own Request	CAU	124	57
+Cape Breton Correctional Facility	Own Request	IND	24	10
+Cape Breton Correctional Facility	Protection	CAU	10	12
+Cape Breton Correctional Facility	Protection	IND	2	2
+Cape Breton Correctional Facility	Safety of Others	CAU	6	4
+Cape Breton Correctional Facility	Security of Correctional Facility	CAU	30	14
+Cape Breton Correctional Facility	Security of Correctional Facility	IND	8	5
+Central NS Correctional Facility	Alleged or Breached Rule	ANS	319	58
+Central NS Correctional Facility	Alleged or Breached Rule	ARAB	156	8
+Central NS Correctional Facility	Alleged or Breached Rule	ASIA	29	7
+Central NS Correctional Facility	Alleged or Breached Rule	BLA	850	195
+Central NS Correctional Facility	Alleged or Breached Rule	CAU	3289	650
+Central NS Correctional Facility	Alleged or Breached Rule	IND	756	119
+Central NS Correctional Facility	Alleged or Breached Rule	OTH	63	23
+Central NS Correctional Facility	Alleged or Breached Rule	UNK	48	11
+Central NS Correctional Facility	COVID-19	ANS	344	123
+Central NS Correctional Facility	COVID-19	ARAB	126	33
+Central NS Correctional Facility	COVID-19	ASIA	103	29
+Central NS Correctional Facility	COVID-19	BLA	1357	416
+Central NS Correctional Facility	COVID-19	CAU	8392	2720
+Central NS Correctional Facility	COVID-19	IND	1007	336
+Central NS Correctional Facility	COVID-19	OTH	379	78
+Central NS Correctional Facility	COVID-19	Redacted	9	10
+Central NS Correctional Facility	COVID-19	UNK	209	95
+Central NS Correctional Facility	High Risk Safety Protocol	BLA	52	15
+Central NS Correctional Facility	High Risk Safety Protocol	CAU	292	29
+Central NS Correctional Facility	High Risk Safety Protocol	IND	37	10
+Central NS Correctional Facility	Housed with Privileges	BLA	165	12
+Central NS Correctional Facility	Housed with Privileges	CAU	220	36
+Central NS Correctional Facility	Housed with Privileges	IND	80	15
+Central NS Correctional Facility	Housed with Privileges	OTH	6	2
+Central NS Correctional Facility	Housed with Privileges	UNK	4	1
+Central NS Correctional Facility	Medical	ANS	17	5
+Central NS Correctional Facility	Medical	ARAB	55	9
+Central NS Correctional Facility	Medical	ASIA	1	1
+Central NS Correctional Facility	Medical	BLA	281	21
+Central NS Correctional Facility	Medical	CAU	2288	258
+Central NS Correctional Facility	Medical	IND	302	36
+Central NS Correctional Facility	Medical	OTH	82	6
+Central NS Correctional Facility	Medical	UNK	3	2
+Central NS Correctional Facility	Own Request	ANS	17	4
+Central NS Correctional Facility	Own Request	ARAB	247	6
+Central NS Correctional Facility	Own Request	BLA	1123	27
+Central NS Correctional Facility	Own Request	CAU	1465	202
+Central NS Correctional Facility	Own Request	IND	199	27
+Central NS Correctional Facility	Own Request	OTH	23	4
+Central NS Correctional Facility	Own Request	UNK	21	1
+Central NS Correctional Facility	Protection	ANS	24	4
+Central NS Correctional Facility	Protection	ARAB	9	3
+Central NS Correctional Facility	Protection	BLA	157	9
+Central NS Correctional Facility	Protection	CAU	478	78
+Central NS Correctional Facility	Protection	IND	3	3
+Central NS Correctional Facility	Protection	OTH	38	6
+Central NS Correctional Facility	Safety of Others	CAU	23	7
+Central NS Correctional Facility	Security of Correctional Facility	ANS	125	11
+Central NS Correctional Facility	Security of Correctional Facility	BLA	647	124
+Central NS Correctional Facility	Security of Correctional Facility	CAU	913	167
+Central NS Correctional Facility	Security of Correctional Facility	IND	209	36
+Central NS Correctional Facility	Security of Correctional Facility	UNK	85	14
+Northeast NS Correctional Facility	Alleged or Breached Rule	ANS	13	7
+Northeast NS Correctional Facility	Alleged or Breached Rule	BLA	105	29
+Northeast NS Correctional Facility	Alleged or Breached Rule	CAU	1463	387
+Northeast NS Correctional Facility	Alleged or Breached Rule	IND	424	116
+Northeast NS Correctional Facility	Alleged or Breached Rule	OTH	26	7
+Northeast NS Correctional Facility	Alleged or Breached Rule	UNK	30	9
+Northeast NS Correctional Facility	COVID-19	ANS	25	11
+Northeast NS Correctional Facility	COVID-19	BLA	238	52
+Northeast NS Correctional Facility	COVID-19	CAU	2727	771
+Northeast NS Correctional Facility	COVID-19	IND	511	148
+Northeast NS Correctional Facility	COVID-19	OTH	30	8
+Northeast NS Correctional Facility	COVID-19	Redacted	13	4
+Northeast NS Correctional Facility	COVID-19	UNK	85	30
+Northeast NS Correctional Facility	High Risk Safety Protocol	CAU	12	3
+Northeast NS Correctional Facility	Housed with Privileges	BLA	113	24
+Northeast NS Correctional Facility	Housed with Privileges	CAU	526	122
+Northeast NS Correctional Facility	Housed with Privileges	IND	143	49
+Northeast NS Correctional Facility	Housed with Privileges	OTH	6	3
+Northeast NS Correctional Facility	Housed with Privileges	UNK	4	1
+Northeast NS Correctional Facility	Medical	ANS	6	1
+Northeast NS Correctional Facility	Medical	BLA	37	11
+Northeast NS Correctional Facility	Medical	CAU	392	106
+Northeast NS Correctional Facility	Medical	IND	151	24
+Northeast NS Correctional Facility	Medical	UNK	6	6
+Northeast NS Correctional Facility	Own Request	ANS	25	8
+Northeast NS Correctional Facility	Own Request	CAU	27	11
+Northeast NS Correctional Facility	Protection	BLA	14	5
+Northeast NS Correctional Facility	Protection	CAU	122	24
+Northeast NS Correctional Facility	Protection	IND	8	1
+Northeast NS Correctional Facility	Safety of Others	CAU	51	4
+Northeast NS Correctional Facility	Safety of Others	IND	1	1
+Northeast NS Correctional Facility	Security of Correctional Facility	ANS	20	12
+Northeast NS Correctional Facility	Security of Correctional Facility	BLA	141	28
+Northeast NS Correctional Facility	Security of Correctional Facility	CAU	866	253
+Northeast NS Correctional Facility	Security of Correctional Facility	IND	498	134
+Northeast NS Correctional Facility	Security of Correctional Facility	OTH	44	13
+Northeast NS Correctional Facility	Security of Correctional Facility	Redacted	15	8
+Southwest NS Correctional Facility	Alleged or Breached Rule	CAU	6	1
+Southwest NS Correctional Facility	COVID-19	CAU	197	86
+Southwest NS Correctional Facility	COVID-19	IND	11	11
+Southwest NS Correctional Facility	COVID-19	Redacted	23	12
+Southwest NS Correctional Facility	COVID-19	UNK	15	7
+Southwest NS Correctional Facility	Housed with Privileges	CAU	14	2
+Southwest NS Correctional Facility	Housed with Privileges	IND	5	2
+Southwest NS Correctional Facility	Protection	CAU	1	1
